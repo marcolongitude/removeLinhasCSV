@@ -72,16 +72,7 @@ if __name__ == "__main__":
 
         print ("Arquivo CSV criado com %d colunas" % len(header))
 
-# path = input('Digite o caminho do arquivo json: ')
-# path = '/home/marco/Documentos/20200218.json'
-# csvFileName = input('Nome do arquivo csv a ser gerado: ')
-# csvFileName = 'errorsTeste.csv'
 
-# df = pd.read_json(path)
-
-# print(teste)
-
-# df.to_csv(csvFileName)
 
 
 
